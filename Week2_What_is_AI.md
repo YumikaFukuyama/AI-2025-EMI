@@ -22,4 +22,5 @@ AI would replace
 - telemakers
 - data entry clerks
 - customer service agents
- Also, I think programmer is going to be replace by AI because of the development of chat GPT. 
+
+Also, I think programmer is going to be replace by AI because of the development of chat GPT. 
