@@ -2,6 +2,8 @@
 ***
 ## 1: 你认为的AI是什么？
 AI （Artificial intelligence）is field in a computer science by using computer. 
+![Uploading image.png…]()
+
 ***
 ## 2： 什么是GANs？
 GANs (Generative adversarial networks) is field in machine learning frameworks and a prominent framework for approaching generative artificial intelligence. 
