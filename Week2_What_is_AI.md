@@ -18,8 +18,8 @@ AI has very powerful potential to significantly increase worldwide economic grow
 ***
 ## Which jobs will AI replace? And what new professions will it create? (AI 會取代哪些工作？又會創造哪些新職業？)
 AI would replace 
--cashiers
--telemakers
--data entry clerks
--customer service agents
+- cashiers
+- telemakers
+- data entry clerks
+- customer service agents
 Also, I think programmer is going to be replace by AI because of the development of chat GPT. 
