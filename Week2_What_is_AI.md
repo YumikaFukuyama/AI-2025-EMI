@@ -17,4 +17,9 @@ The transformer is a deep learning architecture that was developed by researcher
 AI has very powerful potential to significantly increase worldwide economic growth rates within the next 10 years. For example, school study is going to introduce AI learning by using tablet. AI is expected to improve industries like healthcare, manufacturing and customer service, leading a high-quality experiences for both workers and customers. 
 ***
 ## Which jobs will AI replace? And what new professions will it create? (AI 會取代哪些工作？又會創造哪些新職業？)
-AI would replace cashiers, telemakers, data entry clerks, and customer service agents. Also, I think programmer is going to be replace by AI because of the development of chat GPT. 
+AI would replace 
+-cashiers
+-telemakers
+-data entry clerks
+-customer service agents
+Also, I think programmer is going to be replace by AI because of the development of chat GPT. 
