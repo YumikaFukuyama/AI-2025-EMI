@@ -3,8 +3,7 @@
 ***English:***
 Tokyo, the capital of Japan, is a bustling metropolis blending traditional culture and modern innovation. 
 <br>Historically known as Edo, it became the capital in the 19th century. Today, Tokyo is a global hub for finance, technology, and entertainment. 
-<br>The city offers a unique mix of ancient landmarks like the Senso-ji Temple and Tokyo Tower, alongside futuristic skyscrapers in areas like Shibuya and Shinjuku.  
-<br>Tokyo's economy thrives in industries such as electronics, automotive, and media. With a population of over 14 million, Tokyo is one of the most vibrant and influential cities in the world.
+<br>The city offers a unique mix of ancient landmarks like the Senso-ji Temple and Tokyo Tower, alongside futuristic skyscrapers in areas like Shibuya and Shinjuku.<br>Tokyo's economy thrives in industries such as electronics, automotive, and media. With a population of over 14 million, Tokyo is one of the most vibrant and influential cities in the world.
 
 ***Chinese (中文):***
 东京是日本的首都，是一个融合传统文化和现代创新的繁华大都市。历史上被称为江户，19世纪成为日本的首都。
