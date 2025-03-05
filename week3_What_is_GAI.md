@@ -76,7 +76,6 @@ Avoiding Deception: Without proper labeling, AI-generated content could be mista
 <br>Preventing Misuse for Misinformation: When AI-generated content isn’t labeled, it can be exploited to spread misinformation or disinformation, as people may not be able to distinguish it from reliable, human-generated content. For example, in the case of fake news or manipulated videos (deepfakes), labeling AI content helps prevent its misuse in misleading the public.
 ***
 ## "Prompt Engineering" (提示工程)
-Prompt Type | Example Prompt | Answer
 ### ❌ Poor Prompt 
 #### EX)"Tell me about Tokyo." 
 Tokyo is the capital of Japan and one of the world’s most vibrant and dynamic cities. It’s a sprawling metropolis known for blending traditional culture with cutting-edge modernity. Historically, Tokyo began as Edo, a small fishing village, and became the political center during the Tokugawa shogunate in the 17th century. In 1868, it was renamed Tokyo after the Meiji Restoration, signaling its rise as Japan’s capital.Today, Tokyo is a global powerhouse in finance, technology, and culture. It boasts a rich cultural heritage, with landmarks like the ancient Senso-ji Temple and the Imperial Palace, alongside ultra-modern districts like Shibuya and Shinjuku. It’s a hub for art, fashion, food, and entertainment, with world-renowned cuisine (such as sushi and ramen), and it regularly ranks as one of the safest, cleanest, and most livable cities in the world. Tokyo is also home to iconic landmarks like the Tokyo Tower and Tokyo Skytree, and is known for its efficient public transportation system.
@@ -92,22 +91,4 @@ Tokyo, Japan's capital, has a rich history dating back to the 12th century when 
 Tokyo’s technology sector is a key driver of Japan’s economy, encompassing industries like electronics, robotics, IT services, and automotive innovation. It’s home to major global tech companies such as Sony, Panasonic, Toyota, and Nintendo, leading in consumer electronics, automotive manufacturing, and video game development. Tokyo is also a hub for cutting-edge fields like artificial intelligence (AI), robotics, and fintech. The sector fuels Japan's economic growth, driving exports, research, and development. It supports industries like manufacturing and e-commerce, contributing to Japan's global competitiveness and technological leadership, making Tokyo a critical engine for both national and global economies.
 ***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Today's review and thought
-Today, we studied the details of General Artificial Intelligence (GAI) and practiced using platforms like ChatGPT to answer various mission-related questions. I believe ChatGPT, among many GAI systems, is one of the most powerful platforms available today. Its capabilities in natural language processing and problem-solving have revolutionized the way we interact with technology. With its ability to understand complex queries, provide detailed explanations, and assist in creative tasks, ChatGPT is truly transforming industries such as education, business, and healthcare. Its impact is profound, making advanced AI accessible to people around the world, and it has the potential to change the world even more in the future.
 
