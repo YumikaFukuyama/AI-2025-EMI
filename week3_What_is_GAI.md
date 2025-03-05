@@ -77,38 +77,20 @@ Avoiding Deception: Without proper labeling, AI-generated content could be mista
 ***
 ## "Prompt Engineering" (提示工程)
 Prompt Type | Example Prompt | Answer
-### ❌ Poor Prompt #### EX)"Tell me about Tokyo." 
+### ❌ Poor Prompt 
+#### EX)"Tell me about Tokyo." 
 Tokyo is the capital of Japan and one of the world’s most vibrant and dynamic cities. It’s a sprawling metropolis known for blending traditional culture with cutting-edge modernity. Historically, Tokyo began as Edo, a small fishing village, and became the political center during the Tokugawa shogunate in the 17th century. In 1868, it was renamed Tokyo after the Meiji Restoration, signaling its rise as Japan’s capital.Today, Tokyo is a global powerhouse in finance, technology, and culture. It boasts a rich cultural heritage, with landmarks like the ancient Senso-ji Temple and the Imperial Palace, alongside ultra-modern districts like Shibuya and Shinjuku. It’s a hub for art, fashion, food, and entertainment, with world-renowned cuisine (such as sushi and ramen), and it regularly ranks as one of the safest, cleanest, and most livable cities in the world. Tokyo is also home to iconic landmarks like the Tokyo Tower and Tokyo Skytree, and is known for its efficient public transportation system.
 
 The city has a population of over 14 million, and its economy is one of the largest globally, fueled by industries such as electronics, finance, and media. Tokyo is also famous for its technological innovations, being a center for robotics and digital advancements. With its unique blend of old and new, Tokyo offers a diverse and exciting experience for both residents and visitors.
 
-### 💡Better Prompt #### EX)"Give me a 100-word summary of Tokyo history and economy." 
+### 💡Better Prompt 
+#### EX)"Give me a 100-word summary of Tokyo history and economy." 
 Tokyo, Japan's capital, has a rich history dating back to the 12th century when it began as a small fishing village called Edo. In the 17th century, the Tokugawa shogunate established Edo as Japan's political center, transforming it into a thriving metropolis. After Japan’s Meiji Restoration in the late 19th century, Edo was renamed Tokyo, becoming the nation's capital. Today, Tokyo is one of the world’s largest and most influential cities, a major financial and cultural hub. Its economy thrives on industries like technology, finance, and manufacturing, making it a global leader in innovation and commerce.
 
-### 🎯 Best Prompt #### EX)"Explain Tokyo technology sector and its impact on Japan economy in 100 words, including key industries and major companies." 
+### 🎯 Best Prompt 
+#### EX)"Explain Tokyo technology sector and its impact on Japan economy in 100 words, including key industries and major companies." 
 Tokyo’s technology sector is a key driver of Japan’s economy, encompassing industries like electronics, robotics, IT services, and automotive innovation. It’s home to major global tech companies such as Sony, Panasonic, Toyota, and Nintendo, leading in consumer electronics, automotive manufacturing, and video game development. Tokyo is also a hub for cutting-edge fields like artificial intelligence (AI), robotics, and fintech. The sector fuels Japan's economic growth, driving exports, research, and development. It supports industries like manufacturing and e-commerce, contributing to Japan's global competitiveness and technological leadership, making Tokyo a critical engine for both national and global economies.
 ***
 ## Today's review and thought
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Today, we studied the details of General Artificial Intelligence (GAI) and practiced using platforms like ChatGPT to answer various mission-related questions. I believe ChatGPT, among many GAI systems, is one of the most powerful platforms available today. Its capabilities in natural language processing and problem-solving have revolutionized the way we interact with technology. With its ability to understand complex queries, provide detailed explanations, and assist in creative tasks, ChatGPT is truly transforming industries such as education, business, and healthcare. Its impact is profound, making advanced AI accessible to people around the world, and it has the potential to change the world even more in the future.
 
