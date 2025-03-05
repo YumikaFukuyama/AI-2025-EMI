@@ -91,6 +91,23 @@ Tokyo, Japan's capital, has a rich history dating back to the 12th century when 
 #### EX)"Explain Tokyo technology sector and its impact on Japan economy in 100 words, including key industries and major companies." 
 Tokyo’s technology sector is a key driver of Japan’s economy, encompassing industries like electronics, robotics, IT services, and automotive innovation. It’s home to major global tech companies such as Sony, Panasonic, Toyota, and Nintendo, leading in consumer electronics, automotive manufacturing, and video game development. Tokyo is also a hub for cutting-edge fields like artificial intelligence (AI), robotics, and fintech. The sector fuels Japan's economic growth, driving exports, research, and development. It supports industries like manufacturing and e-commerce, contributing to Japan's global competitiveness and technological leadership, making Tokyo a critical engine for both national and global economies.
 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Today's review and thought
 Today, we studied the details of General Artificial Intelligence (GAI) and practiced using platforms like ChatGPT to answer various mission-related questions. I believe ChatGPT, among many GAI systems, is one of the most powerful platforms available today. Its capabilities in natural language processing and problem-solving have revolutionized the way we interact with technology. With its ability to understand complex queries, provide detailed explanations, and assist in creative tasks, ChatGPT is truly transforming industries such as education, business, and healthcare. Its impact is profound, making advanced AI accessible to people around the world, and it has the potential to change the world even more in the future.
 
