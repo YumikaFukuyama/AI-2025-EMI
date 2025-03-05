@@ -39,28 +39,68 @@ The city has a population of over 14 million, and its economy is one of the larg
 ***"I have a meeting at 10 AM on Saturday morning, want to visit the Shinjuku in the afternoon, and plan to have dinner with friends at night. Please arrange my day with time slots."***
 **Saturday Schedule**
 🔅10:00 AM - 11:30 AM: Meeting (You can attend your meeting first thing in the morning.)
-🔅11:30 AM - 12:30 PM: Free time (Grab a coffee, relax, or prepare for the afternoon.)
-🔅12:30 PM - 1:30 PM: Lunch (Enjoy a quick bite before heading to Shinjuku.)
-🔅1:30 PM - 4:30 PM: Visit Shinjuku (Explore Shinjuku, check out Shinjuku Gyoen National Garden, or shop around Kabukicho.)
-🔅4:30 PM - 6:00 PM: Return to your accommodation (Take a short break or freshen up.)
-⭐6:00 PM - 9:00 PM: Dinner with friends (Enjoy a meal at a restaurant or a lively izakaya.)
-⭐9:00 PM onwards: Free time (Continue socializing or relax for the evening.)
+<br>🔅11:30 AM - 12:30 PM: Free time (Grab a coffee, relax, or prepare for the afternoon.)
+<br>🔅12:30 PM - 1:30 PM: Lunch (Enjoy a quick bite before heading to Shinjuku.)
+<br>🔅1:30 PM - 4:30 PM: Visit Shinjuku (Explore Shinjuku, check out Shinjuku Gyoen National Garden, or shop around Kabukicho.)
+<br>🔅4:30 PM - 6:00 PM: Return to your accommodation (Take a short break or freshen up.)
+<br>⭐6:00 PM - 9:00 PM: Dinner with friends (Enjoy a meal at a restaurant or a lively izakaya.)
+<br>⭐9:00 PM onwards: Free time (Continue socializing or relax for the evening.)
+***
+### 4. AI Summarization & Report Generation
+***"Read and summarize the content from https://lis.chu.edu.tw/, including the topic, abstract, key themes, main content, and conclusion in a structured format."***
+#### Topic: Chung Hua University Overview
+Abstract: The website provides a comprehensive overview of Chung Hua University (CHU), focusing on its educational offerings, campus life, and various advantages for students, especially in terms of employability, salary prospects, and academic excellence.
+<br>🔑Key Themes:
+<br>**Education Excellence:** Emphasizes high employment rates, corporate satisfaction, and skills development.
+<br>**International Opportunities:** Promotes global engagement through short-term study abroad programs and cultural exchanges.
+<br>**Technological Innovation:** Highlights AI and cross-disciplinary education to boost competitiveness.
+***
+### 5. AI-Generated Social Media Content
+***"Write an engaging Instagram post about Grace is studying ‘AI Journey’ course at Chung Hua University (CHU) in Taiwan, including hashtags and emojis."***
+🚀📚 Meet Grace, an ambitious student at Chung Hua University (CHU) in Taiwan, diving deep into the world of Artificial Intelligence with her ‘AI Journey’ course!
+<br>🤖✨ She's exploring cutting-edge technology, learning to shape the future, and making her mark in the tech world. From coding to AI innovations, Grace is on an exciting path to becoming an AI expert. 
+<br>🌟Keep an eye on her journey as she continues to grow and make a difference in the world of AI! 💡🌍
+<br>#AIJourney #TechSavvy #ChungHuaUniversity #AI #FutureTech #StudentLife #Innovation #Learning #ArtificialIntelligence #Taiwan #DreamBig #WomenInTech #STEM 🌱🚀
 
+***Its cute acctually...***
+***
+### 6. AI Video Script Generator
+***"Write a video script (30 sec) introducing the achievements of the TOYOTA and its impact on Japan industry."***
+[Video Script - 30 Seconds: Achievements of TOYOTA and Its Impact on Japan’s Industry]
 
+[Scene 1: Aerial view of Toyota’s headquarters and manufacturing plant]
+Narrator (Voiceover):
+From its humble beginnings in 1937, Toyota has become a global leader in the automotive industry, revolutionizing manufacturing with its Toyota Production System and driving technological innovation worldwide.
 
+[Scene 2: Footage of Toyota’s hybrid Prius and hydrogen-powered Mirai]
+Narrator (Voiceover):
+Pioneering eco-friendly technology, Toyota introduced the Prius, the world’s first mass-produced hybrid car, and the Mirai, leading the charge for hydrogen-powered vehicles.
 
+[Scene 3: Footage of autonomous vehicles, robots, and advanced tech]
+Narrator (Voiceover):
+With advances in AI, autonomous driving, and robotics, Toyota is shaping the future of mobility, transforming transportation and fueling Japan’s industrial growth.
 
+[Scene 4: Toyota logo with futuristic background]
+Narrator (Voiceover):
+Toyota: Innovating today for a smarter, greener tomorrow.
 
+[End Screen with Call to Action: "Learn more at Toyota.com"]
 
+### 7. AI-Powered Recommendation System
+***"I am currently in Hsinchu, Taiwan. Please find the top 3 recommended restaurants, including restaurant name and address."***
+1️⃣Chilliesine Indian Restaurant - Hsinchu
+<br>Address: No. 300, Section 2, Zhonghua Road, East District, Hsinchu City, Taiwan
+<br>Description: Chilliesine offers a diverse menu of authentic Indian dishes, providing a flavorful culinary experience in the heart of Hsinchu. 
+TRIPADVISOR.COM
 
+2️⃣A Cut Steakhouse
+<br>Address: No. 300, Section 2, Zhonghua Road, East District, Hsinchu City, Taiwan
+<br>Description: A Cut Steakhouse is renowned for its high-quality cuts and expert preparation, offering a premium dining experience for steak enthusiasts. 
+TRIPADVISOR.COM
 
-
-
-
-
-
-
-
-
+3️⃣Din Tai Fung
+<br>Address: B1, No. 323, Xida Road, East District, Hsinchu City, Taiwan
+<br>Description: Famous for its xiaolongbao (soup dumplings), Din Tai Fung offers a consistent and delightful dining experience with efficient service.
+***
 ## Today's review and thought
 Today, we studied the details of General Artificial Intelligence (GAI) and practiced using platforms like ChatGPT to answer various mission-related questions. I believe ChatGPT, among many GAI systems, is one of the most powerful platforms available today. Its capabilities in natural language processing and problem-solving have revolutionized the way we interact with technology. With its ability to understand complex queries, provide detailed explanations, and assist in creative tasks, ChatGPT is truly transforming industries such as education, business, and healthcare. Its impact is profound, making advanced AI accessible to people around the world, and it has the potential to change the world even more in the future.
