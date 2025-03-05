@@ -88,7 +88,7 @@ Toyota: Innovating today for a smarter, greener tomorrow.
 
 ### 7. AI-Powered Recommendation System
 ***"I am currently in Hsinchu, Taiwan. Please find the top 3 recommended restaurants, including restaurant name and address."***
-1️⃣Chilliesine Indian Restaurant - Hsinchu
+<br>1️⃣Chilliesine Indian Restaurant - Hsinchu
 <br>Address: No. 300, Section 2, Zhonghua Road, East District, Hsinchu City, Taiwan
 <br>Description: Chilliesine offers a diverse menu of authentic Indian dishes, providing a flavorful culinary experience in the heart of Hsinchu. 
 TRIPADVISOR.COM
