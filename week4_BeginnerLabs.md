@@ -127,12 +127,14 @@ To make a self-introduction more engaging, adding personal anecdotes, accomplish
 "Hi, my name is Yumika. I’m studying Information Management, and in my free time, I love reading books—especially those on emerging technologies. I’m passionate about how tech can shape the future, and I’m eager to apply what I’m learning in real-world projects."
 <br>This version provides context for why you study information management, highlights specific interests, and hints at future aspirations, making it more relatable and interesting.
 
-- **Q3:** How does a well-structured prompt **improve AI-generated responses**?
-A well-structured prompt helps the AI understand the user's needs more clearly, resulting in more accurate and relevant responses. By being specific about the desired outcome, tone, and context, the AI can tailor its answer to meet expectations. A clear prompt removes ambiguity, guiding the AI in providing a response that fits the situation.
+**Q3:** How does a well-structured prompt **improve AI-generated responses**?
+- A well-structured prompt helps the AI understand the user's needs more clearly, resulting in more accurate and relevant responses. By being specific about the desired outcome, tone, and context, the AI can tailor its answer to meet expectations. A clear prompt removes ambiguity, guiding the AI in providing a response that fits the situation.
 <br>E.G. :
 **Unclear prompt**: "Introduce me."
 **Well-structured prompt**: "Introduce me in a professional tone, highlighting my name, field of study, and hobbies."
 <br>A clear prompt helps the AI focus on key details and respond effectively, avoiding confusion and ensuring the message is aligned with the user's intent.
+***
+# 📝 Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
 
 
 
