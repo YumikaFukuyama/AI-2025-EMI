@@ -138,8 +138,8 @@ To make a self-introduction more engaging, adding personal anecdotes, accomplish
 https://udn.com/news/story/124373/8601910
 
 Ask ChatGPT:
-**"Summarize this article in 50 words."**
-The article reports that Canadian Premier Doug Ford temporarily suspended a 25% surcharge on electricity imports from three U.S. states. In response, President Trump revoked plans to raise tariffs on Canadian steel and aluminum from 25% to 50%. <br>However, Trump's fluctuating tariff policies caused market instability and inflation concerns.
+<br>**"Summarize this article in 50 words."**
+<br>The article reports that Canadian Premier Doug Ford temporarily suspended a 25% surcharge on electricity imports from three U.S. states. In response, President Trump revoked plans to raise tariffs on Canadian steel and aluminum from 25% to 50%. <br>However, Trump's fluctuating tariff policies caused market instability and inflation concerns.
 
 🔍 **Reflection Questions:**
 
@@ -171,7 +171,7 @@ To improve repeatability and consistency, the following prompt adjustments can b
 https://udn.com/news/story/124373/8601910
 
 **"Extract the top 5 keywords from this paragraph."**
-The top 5 keywords extracted from the article are:
+<br>The top 5 keywords extracted from the article are:
 Trump
 Tariffs
 Canada
