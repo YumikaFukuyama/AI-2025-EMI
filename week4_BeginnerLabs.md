@@ -101,8 +101,8 @@ The Art of War emphasizes strategy, deception, flexibility, and the importance o
 **Japanese:**
 『孫子の兵法』は、戦略、策略、柔軟性、そして自分自身と敵を知る重要性を強調し、戦争とリーダーシップにおける勝利の原則を示しています。
 ***
-#📝 Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
-**FIRST STEP**: Ask chat GPT to make a introduction passage.
+# 📝Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
+**ASK**: Ask chat GPT to make a introduction passage.
 <br>e.g. "Please introduce me in a professional tone. My name is Yumika, I study information management, and my hobbies are reading books."
 **ANSWER***:
 
@@ -111,7 +111,19 @@ Introduction:
 Hello, my name is Yumika. I am currently studying Information Management, focusing on acquiring knowledge and skills in this ever-evolving field. 
 <br>In my personal time, I enjoy reading books, which allows me to continuously expand my horizons and deepen my understanding of various topics.
 
+## 🔍 **Reflection Questions:**
 
+ **Q1:** How does the AI’s response change when adjusting the **tone** (formal vs. casual)?
+- When adjusting the tone from formal to casual, the response becomes more conversational and relaxed, focusing on simpler language and a friendly, approachable manner. A formal tone often uses structured sentences, precise language, and conveys professionalism or authority, while a casual tone feels more personal, warm, and informal, with less emphasis on structure and formality.
+- E.G. :
+
+**Formal tone**: "I am currently pursuing a degree in Information Management, a field which I find both challenging and intellectually stimulating."
+**Casual tone**: "I’m studying Information Management, and I really enjoy learning about tech and data!"
+<br>The AI adapts the language, sentence structure, and overall approach to meet the tone requested.
+
+- **Q2:** What **additional details** make a self-introduction more engaging?
+- **Q3:** How does a well-structured prompt **improve AI-generated responses**?
+- 
 
 
 
