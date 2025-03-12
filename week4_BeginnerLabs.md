@@ -105,7 +105,7 @@ The Art of War emphasizes strategy, deception, flexibility, and the importance o
 **ASK**: Ask chat GPT to make a introduction passage.
 <br>e.g. "Please introduce me in a professional tone. My name is Yumika, I study information management, and my hobbies are reading books."
 **ANSWER**:
-Introduction:
+<br>Introduction:
 <br>Hello, my name is Yumika. I am currently studying Information Management, focusing on acquiring knowledge and skills in this ever-evolving field. 
 <br>In my personal time, I enjoy reading books, which allows me to continuously expand my horizons and deepen my understanding of various topics.
 
