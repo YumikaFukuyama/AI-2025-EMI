@@ -1,6 +1,7 @@
 # 🔹 Beginner Labs (初級ラボ) – 10 Labs, W4
 ***
-## 1️⃣"Summarize the first chapter of The Bible in 30 words in English, Traditional Chinese, and Japanese."
+## 1️⃣Basic Summarization (基本總結, 基本要約)
+"Summarize the first chapter of The Bible in 30 words in English, Traditional Chinese, and Japanese."
 **English:**
 The first chapter of the Bible describes the creation of the world in seven days, with God creating light, land, sky, animals, and humans, concluding with rest on the seventh day.
 
@@ -10,21 +11,23 @@ The first chapter of the Bible describes the creation of the world in seven days
 **Japanese:**
 聖書の第1章では、神が7日間で世界を創造し、光、土地、空、動物、人間を作り、7日目に休息を取ったことが描かれています。
 
-## 2️⃣​"Extract all city names from: 'I visited Taipei 101 and Sun Moon Like and met friends in Hsinchu and Taichung.'"
+## 2️⃣Keyword Extraction (關鍵詞萃取, キーワード抽出)
+​"Extract all city names from: 'I visited Taipei 101 and Sun Moon Like and met friends in Hsinchu and Taichung.'"
 The city names extracted from the sentence are:
 <br>Taipei
 <br>Hsinchu
 <br>Taichung
 
 ## 3️⃣​Basic Translation (簡單翻譯, 基本翻訳)
-<br>"Translate: 'Today's weather is great, I want to go for a walk.' into Chinese and Japanese."
+"Translate: 'Today's weather is great, I want to go for a walk.' into Chinese and Japanese."
 <br>**Chinese (Simplified):**
 <br>今天的天气很好，我想去散步。
 
 **Japanese:**
 <br>今日は天気が良いので、散歩に行きたいです。
 
-## 4️⃣"Summarize an AI development article in 30 words in English, Chinese, and Japanese"
+## 4️⃣Long Text Summarization (長篇文章總結, 長文要約)
+"Summarize an AI development article in 30 words in English, Chinese, and Japanese"
 **English:**
 AI development focuses on improving algorithms, machine learning, and neural networks, aiming for greater efficiency, understanding, and automation in industries, healthcare, and everyday tasks for a smarter future.
 
@@ -34,16 +37,19 @@ AI development focuses on improving algorithms, machine learning, and neural net
 Japanese:
 AIの開発は、アルゴリズム、機械学習、ニューラルネットワークの改善に焦点を当て、産業、医療、日常業務でより効率的で理解力のある自動化を目指しています。
 
-## 5️⃣​"Extract the name and address from: 'Dear Mr. Lee, my address is Taipei 101.'"
+## 5️⃣Structured Extraction (指定格式萃取, 構造化抽出)
+​"Extract the name and address from: 'Dear Mr. Lee, my address is Taipei 101.'"
 Name: Mr. Lee
 Address: Taipei 101
 
-## 6️⃣​"Translate: 'Hello, how are you?' into French, Spanish, and Japanese."
+## 6️⃣Multi-Language Translation (多語翻譯, 多言語翻訳)
+​"Translate: 'Hello, how are you?' into French, Spanish, and Japanese."
 French: Bonjour, comment ça va ?
 Spanish: Hola, ¿cómo estás?
 Japanese: こんにちは、お元気ですか？
 
-## 7️⃣​"Explain deep learning formally and informally in 30 words in English, Chinese, and Japanese."
+## 7️⃣Formal vs. Informal Writing (正式 vs 非正式, フォーマル vs インフォーマル)
+​"Explain deep learning formally and informally in 30 words in English, Chinese, and Japanese."
 **English (Formal):**
 Deep learning is a subset of machine learning, using neural networks with many layers to analyze vast amounts of data and perform tasks like speech recognition, image processing, and decision-making.
 
@@ -62,7 +68,8 @@ Deep learning is like teaching a computer to think by using lots of data and lay
 **Japanese (Informal):**
 ディープラーニングは、たくさんのデータとレイヤーを使ってコンピュータに考え方を教えるようなもので、音声や画像を認識して、賢くなる技術です。
 
-## 8️⃣​"Explain blockchain in a humorous tone in 30 words in English, Traditional Chinese, and Japanese."
+## 8️⃣​Humorous Explanation (幽默解釋, ユーモラスな説明)
+"Explain blockchain in a humorous tone in 30 words in English, Traditional Chinese, and Japanese."
 **English:**
 Blockchain is like a digital ledger where everyone keeps track of everything. It’s secure, decentralized, and no one can cheat—except maybe your Wi-Fi connection.
 
@@ -72,7 +79,8 @@ Blockchain is like a digital ledger where everyone keeps track of everything. It
 **Japanese:**
 ブロックチェーンは、みんながすべてを記録するデジタル帳簿のようなものです。安全で分散型、誰も不正はできません—ただし、Wi-Fiが切れるかもしれません。
 
-## 9️⃣​"Explain 5G technology in simple terms in 30 words in English, Traditional Chinese, and Japanese."
+## 9️⃣Simple Sentence Rewriting (簡單句型調整, シンプルな文書き換え)
+​"Explain 5G technology in simple terms in 30 words in English, Traditional Chinese, and Japanese."
 **English:**
 5G is the next generation of mobile networks, offering faster speeds, lower latency, and more reliable connections for everything from smartphones to smart devices, making life more connected.
 
@@ -82,7 +90,8 @@ Blockchain is like a digital ledger where everyone keeps track of everything. It
 **Japanese:**
 5Gは次世代のモバイルネットワークで、スマートフォンからスマートデバイスまで、すべての接続をより高速、低遅延、安定的にして、よりつながりのある生活を実現します。
 
-## 🔟​"Summarize the Art of War and extract its strategic principles in 30 words in English, Traditional Chinese, and Japanese."
+## 🔟Multi-Step Summarization (多步操作總結, 多段要約)
+​"Summarize the Art of War and extract its strategic principles in 30 words in English, Traditional Chinese, and Japanese."
 **English:**
 The Art of War emphasizes strategy, deception, flexibility, and the importance of knowing both oneself and the enemy to win. It outlines principles for victory in warfare and leadership.
 
