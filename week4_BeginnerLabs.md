@@ -100,3 +100,50 @@ The Art of War emphasizes strategy, deception, flexibility, and the importance o
 
 **Japanese:**
 『孫子の兵法』は、戦略、策略、柔軟性、そして自分自身と敵を知る重要性を強調し、戦争とリーダーシップにおける勝利の原則を示しています。
+***
+#📝 Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
+**FIRST STEP**: Ask chat GPT to make a introduction passage.
+<br>e.g. "Please introduce me in a professional tone. My name is Yumika, I study information management, and my hobbies are reading books."
+**ANSWER***:
+
+Introduction:
+
+Hello, my name is Yumika. I am currently studying Information Management, focusing on acquiring knowledge and skills in this ever-evolving field. 
+<br>In my personal time, I enjoy reading books, which allows me to continuously expand my horizons and deepen my understanding of various topics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
