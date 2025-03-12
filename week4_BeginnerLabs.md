@@ -115,15 +115,23 @@ Hello, my name is Yumika. I am currently studying Information Management, focusi
 
  **Q1:** How does the AI’s response change when adjusting the **tone** (formal vs. casual)?
 - When adjusting the tone from formal to casual, the response becomes more conversational and relaxed, focusing on simpler language and a friendly, approachable manner. A formal tone often uses structured sentences, precise language, and conveys professionalism or authority, while a casual tone feels more personal, warm, and informal, with less emphasis on structure and formality.
-- E.G. :
-
+   E.G. :
 **Formal tone**: "I am currently pursuing a degree in Information Management, a field which I find both challenging and intellectually stimulating."
 **Casual tone**: "I’m studying Information Management, and I really enjoy learning about tech and data!"
 <br>The AI adapts the language, sentence structure, and overall approach to meet the tone requested.
 
-- **Q2:** What **additional details** make a self-introduction more engaging?
+ **Q2:** What **additional details** make a self-introduction more engaging?
+To make a self-introduction more engaging, adding personal anecdotes, accomplishments, or future goals can create a connection with the audience. 
+<br>For example, instead of simply stating your hobbies, mentioning how they relate to your personal or professional growth adds depth.
+ - Example of a more engaging self-introduction:
+"Hi, my name is Yumika. I’m studying Information Management, and in my free time, I love reading books—especially those on emerging technologies. I’m passionate about how tech can shape the future, and I’m eager to apply what I’m learning in real-world projects."
+<br>This version provides context for why you study information management, highlights specific interests, and hints at future aspirations, making it more relatable and interesting.
 - **Q3:** How does a well-structured prompt **improve AI-generated responses**?
-- 
+A well-structured prompt helps the AI understand the user's needs more clearly, resulting in more accurate and relevant responses. By being specific about the desired outcome, tone, and context, the AI can tailor its answer to meet expectations. A clear prompt removes ambiguity, guiding the AI in providing a response that fits the situation.
+  E.G. :
+Unclear prompt: "Introduce me."
+Well-structured prompt: "Introduce me in a professional tone, highlighting my name, field of study, and hobbies."
+A clear prompt helps the AI focus on key details and respond effectively, avoiding confusion and ensuring the message is aligned with the user's intent.
 
 
 
