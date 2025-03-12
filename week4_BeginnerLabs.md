@@ -133,16 +133,50 @@ To make a self-introduction more engaging, adding personal anecdotes, accomplish
 <br>A clear prompt helps the AI focus on key details and respond effectively, avoiding confusion and ensuring the message is aligned with the user's intent.
 ***
 # 📝 Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
+## 📌 Objective: Test AI's consistency by summarizing the same article multiple times.
+川普不報復了！加拿大暫緩對美電力附加費 美國喊卡鋼鋁50%關稅
+https://udn.com/news/story/124373/8601910
 
+Ask ChatGPT:
+**"Summarize this article in 50 words."**
+The article reports that Canadian Premier Doug Ford temporarily suspended a 25% surcharge on electricity imports from three U.S. states. In response, President Trump revoked plans to raise tariffs on Canadian steel and aluminum from 25% to 50%. <br>However, Trump's fluctuating tariff policies caused market instability and inflation concerns.
 
+🔍 **Reflection Questions:**
 
+**Q1:** Did AI provide **consistent key points** across all responses?
+- Yes, the AI provided consistent key points across all responses. It highlighted the core issues discussed in the article:
 
+1. Canada's temporary suspension of the surcharge on electricity imports from the U.S.
+2. Trump's revocation of the planned tariff increase on Canadian steel and aluminum.
+3. The concern over the broader economic impact due to fluctuating tariffs.
+<br>These points were consistently addressed, capturing the main themes from the article.
 
+**Q2:** How did AI handle **sentence variation while keeping the meaning intact**?
+The AI maintained the same core message but varied sentence structure to create a more fluid, readable summary. For example:
+- Original structure: "Canadian Premier Doug Ford temporarily suspended a 25% surcharge on electricity imports from three U.S. states."
+- Rephrased structure: "Canada temporarily halted a 25% surcharge on electricity imports from U.S. states."
+<br>Despite varying sentence structures, the meaning remained intact—ensuring clarity and relevance while avoiding redundancy or overuse of similar phrasing.
 
+**Q3:** What **prompt adjustments** can improve repeatability in AI outputs?
+To improve repeatability and consistency, the following prompt adjustments can be helpful:
 
+1. Be specific about tone and format: For example, "Summarize this article in 50 words with a neutral tone, focusing on the main events."
+2. Clarify the level of detail required: "Provide a summary with key facts and events, avoiding unnecessary elaboration."
+3. Indicate desired structure: "Write a concise summary that highlights the main points in a clear, bullet-point style."
+<br>Clear instructions on these factors would guide the AI in producing responses with consistent focus, structure, and detail.
 
+# 📝 Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
+## 📌 Objective: Use AI to extract important keywords and check for repeatability in multiple attempts.
+川普不報復了！加拿大暫緩對美電力附加費 美國喊卡鋼鋁50%關稅
+https://udn.com/news/story/124373/8601910
 
-
+**"Extract the top 5 keywords from this paragraph."**
+The top 5 keywords extracted from the article are:
+Trump
+Tariffs
+Canada
+Electricity surcharge
+Ford
 
 
 
