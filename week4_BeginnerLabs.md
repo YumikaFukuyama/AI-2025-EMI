@@ -172,11 +172,38 @@ https://udn.com/news/story/124373/8601910
 
 **"Extract the top 5 keywords from this paragraph."**
 <br>The top 5 keywords extracted from the article are:
-Trump
-Tariffs
-Canada
-Electricity surcharge
-Ford
+1. Trump
+2. Tariffs
+3. Canada
+4. Electricity surcharge
+5. Ford
+
+🔍 **Reflection Questions:**
+
+**Q1:** Were the **top keywords** identical in all attempts?
+<br>No, the top keywords may not always be identical in all attempts. 
+<br>The importance of keywords can vary depending on the context of the paragraph, the focus of the topic, and the AI’s interpretation. 
+<br>For instance, while "Trump" and "tariffs" were consistently identified, other keywords like "Canada" or "electricity surcharge" might change based on the depth of information provided in the text.
+
+**Q2:** How does AI determine **keyword importance** in a paragraph?
+AI determines keyword importance by evaluating factors such as:
+
+- **Frequency**: Words that appear more often are often deemed more important.
+- **Context**: Keywords that are central to the main theme or topic are prioritized, even if they don’t appear frequently.
+- **Sentiment or emphasis**: Words or phrases that convey critical actions, decisions, or changes in the article (like "surcharge" or "tariffs") are flagged.
+- **Entity recognition**: Proper nouns like names of countries, people, or organizations are usually considered significant (e.g., "Trump," "Canada").
+<br>AI uses these elements to extract terms that provide a clearer understanding of the article's focus.
+
+**Q3:** What strategies can **improve AI consistency** in keyword extraction?
+<br>To improve AI consistency in keyword extraction:
+
+- **Provide Clear Guidelines**: Define the specific purpose (e.g., identifying key terms vs. extracting thematic words) to help the AI prioritize keywords.
+- **Use Contextual Clarity**: Make sure the text is clear and focuses on core events or concepts to help the AI accurately assess importance.
+- **Limit Word Scope**: For consistency, restrict the extraction to specific word types (e.g., nouns, verbs) or themes (e.g., economics, politics).
+- **Multiple Iterations**: Perform multiple extractions and refine the process based on feedback, enabling the AI to better learn which keywords are consistently important.
+<br>With these strategies, AI can more accurately and consistently extract keywords that align with the user’s expectations.
+
+
 
 
 
