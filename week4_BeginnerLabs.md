@@ -18,11 +18,11 @@ The city names extracted from the sentence are:
 
 ## 3️⃣​Basic Translation (簡單翻譯, 基本翻訳)
 <br>"Translate: 'Today's weather is great, I want to go for a walk.' into Chinese and Japanese."
-**Chinese (Simplified):**
-今天的天气很好，我想去散步。
+<br>**Chinese (Simplified):**
+<br>今天的天气很好，我想去散步。
 
 **Japanese:**
-今日は天気が良いので、散歩に行きたいです。
+<br>今日は天気が良いので、散歩に行きたいです。
 
 ## 4️⃣"Summarize an AI development article in 30 words in English, Chinese, and Japanese"
 **English:**
