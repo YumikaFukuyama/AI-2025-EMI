@@ -307,9 +307,14 @@ So, the weekly revenue is:
 Weekly Revenue=5000(daily revenue)×7(days)=35,000dollars per week
 Final Answer:
 The restaurant’s weekly revenue is $35,000.
-## 3️⃣0️⃣​
-Real-Time AI Automation (實時AI應用, AI自動化)
+## 3️⃣0️⃣​Real-Time AI Automation (實時AI應用, AI自動化)
+"Automate data extraction and generate a summary for the provided datasheet."
+**Data Extraction:**
 
+Identify and extract key fields or columns from the datasheet (e.g., sales data, customer information, or product details).
+**Generate Summary:**
+
+Create a concise summary based on the extracted data (e.g., total sales, trends, key metrics).
 
 
 
