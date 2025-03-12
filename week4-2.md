@@ -104,23 +104,57 @@ AIは瞬く間に社会を席巻し、私たちの存在のあらゆる側面を
 "Generate a CSV-format sales report with monthly data."
 | **Month**      | **Sales (Units)** |**Revenue ($)** |
 |----------------|--------------------|--------------------|
-| January  |1200, 24000
-| February | 1500, 30000
-| March   | 1700, 34000
-| April |1600, 32000
-| May, 1800, 36000
-| June, 2000, 40000
-| July, 1900, 38000
-| August, 2100, 42000
-| September, 2200, 44000
-| October, 2300, 46000
-| November, 2400, 48000
-| December, 2500, 50000
+| January  |1200 | 24000
+| February | 1500 | 30000
+| March   | 1700 | 34000
+| April |1600 | 32000
+| May |1800 | 36000
+| June | 2000 |40000
+| July | 1900 | 38000
+| August | 2100 |42000
+| September | 2200 |44000
+| October | 2300 |46000
+| November | 2400 | 48000
+| December | 2500 | 50000
 
+## 1️⃣7️⃣​Marketing Copywriting (行銷文案, マーケティングコピー作成)
+"Write a product description for [Product Name] using the FAB method (Feature, Advantage, Benefit)."
+**anua skincare products**
+- Feature:
+<br>Anua Skincare products are formulated with natural, skin-loving ingredients like Centella Asiatica, Hyaluronic Acid, and various plant extracts that help hydrate and soothe the skin.
 
+- Advantage:
+<br>These products are designed to deeply nourish and restore the skin’s balance, reducing inflammation, improving skin elasticity, and promoting a healthy, glowing complexion.
 
+- Benefit:
+<br>With regular use, Anua Skincare helps achieve smoother, more hydrated skin, enhancing overall skin health and radiance, while being gentle and suitable for all skin types, including sensitive skin.
 
+## 1️⃣8️⃣​Tone & Style Adjustments (語氣調整, 文体調整)
+"Write a professional and an informal article on machine learning in 100 words."
+**Professional Article:**
+Machine learning (ML) is a branch of artificial intelligence that allows systems to learn from data and improve over time without explicit programming. ML algorithms analyze large datasets, identify patterns, and make predictions or decisions based on data input. It is widely used in industries such as healthcare, finance, and marketing for tasks like data analysis, automation, and predictive modeling. With continuous advancements, machine learning enhances efficiency, accuracy, and decision-making, driving innovations in various fields. As the field evolves, its applications are expected to become more advanced, further integrating into daily life and business operations.
 
+**Informal Article:**
+Machine learning is like teaching a computer to get smarter by itself! It looks at tons of data, spots patterns, and starts making decisions or predictions without needing specific instructions. It’s already used in things like recommendation systems, voice assistants, and even healthcare. The cool part? As it gets more data, it just keeps getting better! Whether it’s predicting the weather or helping businesses make smarter choices, machine learning is changing the game in all kinds of industries.
+
+## 1️⃣9️⃣​Paraphrasing & Simplification (改寫練習, 言い換え練習)
+"Rewrite: 'Deep learning is a neural network technology that processes large datasets. in English, Chinese, and Japanese'"
+**English:**
+Deep learning is a type of neural network technology designed to analyze and process vast amounts of data.
+
+**Chinese (Traditional):**
+深度學習是一種神經網絡技術，旨在分析和處理大量數據。
+
+**Japanese:**
+ディープラーニングは、大量のデータを分析・処理するために設計されたニューラルネットワーク技術です。
+
+## 2️⃣0️⃣​Sarcastic vs Neutral Explanations (諷刺 vs 中立, 皮肉と中立の比較)
+"Explain climate change sarcastically and neutrally."
+**Sarcastic Explanation:**
+Oh, climate change? Just the Earth’s way of going through a little mood swing. Who needs cool, calm weather when we can have floods, heatwaves, and fires everywhere? It’s like Mother Nature decided to turn up the heat for fun. Isn’t that exactly what we wanted?
+
+**Neutral Explanation:**
+Climate change refers to long-term shifts in temperature and weather patterns, primarily caused by human activities such as burning fossil fuels. The result is rising global temperatures, extreme weather events, and disruptions to ecosystems. It poses serious challenges to health, agriculture, and the environment, requiring global efforts to mitigate its effects.
 
 
 
