@@ -1,7 +1,7 @@
 # 🔹 Beginner Labs (初級ラボ) – 10 Labs, W4
 ***
 ## 1️⃣"Summarize the first chapter of The Bible in 30 words in English, Traditional Chinese, and Japanese."
-English:
+*English:*
 The first chapter of the Bible describes the creation of the world in seven days, with God creating light, land, sky, animals, and humans, concluding with rest on the seventh day.
 
 Traditional Chinese:
