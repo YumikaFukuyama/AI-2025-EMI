@@ -31,9 +31,13 @@ The Porsche 911 is a 911 with a turbocharged engine and an adaptive suspension, 
 Let's break it down step by step:
 
 You start with 10 apples.
+
 You give 3 apples away: 10 - 3 = 7 apples.
+
 You buy 5 more apples: 7 + 5 = 12 apples.
+
 You eat 1 apple: 12 - 1 = 11 apples.
+
 So, you have 11 apples remaining.
 
 ## 2️⃣4️⃣​Multi-Step Math (多步數學, 数学的な推論)
