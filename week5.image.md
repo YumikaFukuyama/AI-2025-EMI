@@ -1,14 +1,13 @@
 # 📌 D. Finally, let’s play Text-to-Image (T2I) for 3 Images as the ending. (Created by GPT4o)
 ## Q1: generate an image; 3 pigs in a classroom
-file:///C:/Users/C8/Downloads/DALL%C2%B7E%202025-03-19%2015.19.34%20-%20Three%20pigs%20sitting%20in%20a%20classroom,%20each%20at%20their%20own%20desk.%20The%20classroom%20has%20a%20chalkboard%20with%20writing%20on%20it,%20books%20on%20the%20desks,%20and%20a%20bright%20atmosph.webp
+https://files.oaiusercontent.com/file-Mi1gnaXNrYV1sF8Gt46bSE?se=2025-03-19T07%3A24%3A16Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D04eca422-b1a6-4e11-a4b4-11ad84801da6.webp&sig=C/mictigv1sodPl4NVFQadh97WSFFjVWliXq5CQjxlE%3D
 
 ## Q2: generate an image; 3 cats in a classroom
-https://chatgpt.com/c/67da6fe7-5bf4-8002-bf71-1b68356df823
+[https://files.oaiusercontent.com/file-6nD9ZKBNnGs3N5T5NxhaHn?se=2025-03-19T07%3A27%3A38Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da08a283a-f43c-40f3-b70e-8f75619478bf.webp&sig=/Ru4omvlULC7KG2TSDuJoFCejo7drQWNKBOnmtqsge0%3D](https://files.oaiusercontent.com/file-6nD9ZKBNnGs3N5T5NxhaHn?se=2025-03-19T07%3A27%3A38Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da08a283a-f43c-40f3-b70e-8f75619478bf.webp&sig=/Ru4omvlULC7KG2TSDuJoFCejo7drQWNKBOnmtqsge0%3D)
 
 ## Q3: generate a comic image: There are 3 pigs and 3 cats in classroom
-https://chatgpt.com/c/67da7117-93e4-8002-a284-cf5334a224fa
-
-
+[(https://files.oaiusercontent.com/file-6gjKvPDFWb3a9yajD59irg?se=2025-03-19T07%3A29%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da24399e7-7950-47dd-99bb-935126b09947.webp&sig=3V9Q9qASvnCog8FcnF2MbETz2Pfmmpo50K2gAv5EB1A%3D)
+](https://files.oaiusercontent.com/file-6gjKvPDFWb3a9yajD59irg?se=2025-03-19T07%3A29%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da24399e7-7950-47dd-99bb-935126b09947.webp&sig=3V9Q9qASvnCog8FcnF2MbETz2Pfmmpo50K2gAv5EB1A%3D)
 
 
 
