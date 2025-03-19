@@ -44,48 +44,79 @@ So, you have 11 apples remaining.
 "A car travels 60 km/h for 4 hours. How far does it go? Explain step-by-step."
 
 Speed = 60 km/h (this is how fast the car is traveling)
+
 Time = 4 hours (this is how long the car is traveling)
+
 Use the formula:
+
 *Distance=Speed×Time*
 
 Substitute the given values into the formula:
+
 Distance = 60 km/h × 4 hours
+
 Calculate the result:
+
 Distance = 240 km
+
 So, the car travels 240 kilometers in 4 hours.
 
 ## 2️⃣5️⃣​Zero-shot CoT (零樣本CoT, ゼロショットCoT)
 "A student has 20 dollars, buys a pen for 5 dollars, a book for 10 dollars. How much remains?"
 
 Initial amount of money: 20 dollars
+
 Cost of the pen: 5 dollars
+
 Cost of the book: 10 dollars
 
 Calculation:
+
 Total cost = 5 dollars (pen) + 10 dollars (book) = 15 dollars
+
 Remaining money = Initial amount - Total cost = 20 dollars - 15 dollars = 5 dollars
 
 Final Answer:
+
 The student has 5 dollars remaining.
 
 ## 2️⃣6️⃣​Tree-of-Thoughts (ToT, 思維樹技術)
 "Where is the ball if someone moves it between rooms? Let three AI experts analyze the answer."
 
 **Expert 1:** The Data Scientist (Logical and Analytical Approach)
+
 The location of the ball depends on a sequence of actions performed by the person. If the ball is moved between rooms, we need a clear record of the steps:
 
 The ball starts in one room, let's call it Room A.
+
 It is then moved to Room B.
+
 The final location of the ball will be Room B, assuming no further movements occur.
+
 To determine the ball's location accurately, we would need an input of the specific rooms and actions involved.
 
 **Expert 2:** The Cognitive Scientist (Focus on Human Understanding)
-From a cognitive perspective, the location of the ball is a question of memory and context. A person moves the ball between two rooms, but their perception of the ball's location relies on their awareness of where they placed it last. If they moved the ball from Room A to Room B, their current belief about the ball's location is based on their mental map, which updates each time the ball is relocated. If the person last moved it to Room B, that’s where the ball is perceived to be.
+
+From a cognitive perspective, the location of the ball is a question of memory and context. 
+
+A person moves the ball between two rooms, but their perception of the ball's location relies on their awareness of where they placed it last. 
+
+If they moved the ball from Room A to Room B, their current belief about the ball's location is based on their mental map, which updates each time the ball is relocated. 
+
+If the person last moved it to Room B, that’s where the ball is perceived to be.
 
 **Expert 3:** The Machine Learning Engineer (Contextual Understanding and Assumptions)
-Using a machine learning model trained on similar situations, the model would use context and historical data to predict the ball’s location. Given that the ball was moved between rooms, the final state would be Room B, assuming the last move was to that room. If there’s no further input or action, and we base our answer on the last known movement, the ball is in Room B. However, we could adjust our prediction if there were additional complexities, like uncertainty in the movement or intermediate steps.
+
+Using a machine learning model trained on similar situations, the model would use context and historical data to predict the ball’s location. 
+
+Given that the ball was moved between rooms, the final state would be Room B, assuming the last move was to that room. 
+
+If there’s no further input or action, and we base our answer on the last known movement, the ball is in Room B. 
+
+However, we could adjust our prediction if there were additional complexities, like uncertainty in the movement or intermediate steps.
 
 Final Conclusion:
+
 In all three perspectives, Room B is where the ball is most likely to be, assuming it was moved there last and no further information suggests a different outcome.
 
 ## 2️⃣7️⃣​Variable Prompt Design (變數化提示詞, 変数化プロンプト)
@@ -94,28 +125,56 @@ In all three perspectives, Room B is where the ball is most likely to be, assumi
 "A vehicle travels at a speed of 80 km/h for 3 hours. How far does it go? Explain step-by-step."
 
 Identify the given values:
+
 Speed = 80 km/h
+
 Time = 3 hours
 
 Use the formula:
+
 *Distance = Speed × Time*
+
 Distance = 80 km/h × 3 hours
 
 Calculate:
+
 Distance = 240 km
+
 The vehicle travels 240 kilometers in 3 hours.
 
 
 ## 2️⃣8️⃣​Historical Chain of Thought (歷史推理, 歴史的な推論)
 "Explain the fall of the Roman Empire step-by-step."
+
 **1. Economic Decline**
-Overexpansion: The Roman Empire became too large to govern effectively, leading to a strained economy. Provinces faced high taxes and a lack of resources, causing internal economic instability.
-Inflation and Devaluation: The empire relied heavily on slaves and conquests for wealth. As the empire's expansion slowed, there was less wealth, which led to inflation. Additionally, the Roman currency was devalued, weakening the economy further.
+
+Overexpansion: The Roman Empire became too large to govern effectively, leading to a strained economy. 
+
+Provinces faced high taxes and a lack of resources, causing internal economic instability.
+
+Inflation and Devaluation: 
+
+The empire relied heavily on slaves and conquests for wealth. As the empire's expansion slowed, there was less wealth, which led to inflation. 
+
+Additionally, the Roman currency was devalued, weakening the economy further.
+
 Heavy Taxes: To fund the empire’s military and vast bureaucracy, taxes increased, burdening the citizens and farmers.
+
 **2. Political Instability**
-Weak Leadership: The Roman Empire suffered from frequent leadership changes, with many emperors being overthrown or assassinated. This lack of stable leadership weakened the political structure.
-Division of the Empire: In 395 AD, Emperor Theodosius divided the empire into the Western Roman Empire and the Eastern Roman Empire (Byzantine Empire). The Western Empire was much weaker and more vulnerable to invasions.
+
+Weak Leadership: 
+The Roman Empire suffered from frequent leadership changes, with many emperors being overthrown or assassinated. 
+
+This lack of stable leadership weakened the political structure.
+
+Division of the Empire: 
+
+In 395 AD, Emperor Theodosius divided the empire into the Western Roman Empire and the Eastern Roman Empire (Byzantine Empire). 
+
+The Western Empire was much weaker and more vulnerable to invasions.
+
 **3. Military Problems**
+
 Barbarian Invasions: Various groups of "barbarians," including the Visigoths, Vandals, and Huns, attacked Roman borders. The Western Roman Empire struggled to defend itself from these external threats.
 Mercenary Armies: The Roman military began to rely more on mercenaries—soldiers from other regions who were less loyal to Rome and sometimes even turned against the empire.
 Decline in Military Discipline: The quality of the Roman army deteriorated over time. Many soldiers were not as well-trained or disciplined as in earlier periods.
