@@ -14,7 +14,8 @@ This Dell XPS features an Intel Core i7 processor, 16GB of RAM, and a 512GB SSD 
 
 ## 2️⃣2️⃣​Automated Template Filling (自動化模板, 自動入力テンプレート)
 "Please use the following template to write a product description for **[car]: '[Product Name] is a [Type] with [Feature 1] and [Feature 2], offering [Advantage].'**
-- Porche 911
+- Porsche 911
+
 **English:**
 The Porsche 911 is a 911 with a turbocharged engine and an adaptive suspension, offering unmatched performance and comfort on the road.
 
@@ -26,6 +27,7 @@ The Porsche 911 is a 911 with a turbocharged engine and an adaptive suspension, 
 
 ## 2️⃣3️⃣​Chain of Thought (CoT, 思維鏈)
 "If I have 10 apples, give 3 away, buy 5 more, and eat 1, how many remain?"
+
 Let's break it down step by step:
 
 You start with 10 apples.
