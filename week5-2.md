@@ -164,35 +164,53 @@
 <br>The response is clear and provides enough information for basic usage, but can be expanded for users who may need more specific use cases or advanced features in Markdown.
 
 ### **Q3:** How can adding clear step-by-step instructions refine AI-generated reasoning?
-<br>1. Encourages Logical Thinking
+
+1. Encourages Logical Thinking
+
 <br>Clear steps guide the AI through a logical sequence, prompting it to focus on one part of the problem at a time.
 <br>This ensures that the AI doesn’t jump to conclusions without fully understanding or processing the problem.
 *<br>Example:* If the task is to solve a math problem, clear steps like "First, identify the numbers involved" and "Then, apply the correct operation" force the AI to reason logically instead of providing a rushed answer.
-<br>2. Reduces Ambiguity
+
+3. Reduces Ambiguity
+
 <br>Ambiguity often arises when AI skips over important steps or doesn’t break down the process thoroughly. Step-by-step instructions help to clarify each part of the reasoning.
 *<br>Example:* In complex problem-solving, such as explaining the fall of the Roman Empire, breaking down the reasons (economic decline, military failure, etc.) step by step prevents the AI from missing key aspects.
-<br>3. Improves Transparency
+
+3. Improves Transparency
+
 <br>By clearly stating each step in the reasoning process, AI output becomes more transparent. The user can understand the thought process behind the AI’s conclusion.
 <br>This transparency helps build trust and allows users to follow along, ask questions about each step, or correct the reasoning if necessary.
 *<br>Example:* If an AI provides a conclusion about a scientific phenomenon, users can assess each logical step, making the overall answer more reliable.
-<br>4. Enhances Error Detection and Correction
+
+4. Enhances Error Detection and Correction
+
 <br>Step-by-step reasoning allows for easier identification of errors or gaps in the logic.
 <br>If an error is made in an early step, it becomes apparent early in the process and can be corrected before the AI moves on to subsequent steps.
 *<br>Example:* In a complex explanation about a business strategy, if one of the steps is misunderstood (e.g., misinterpreting data analysis), it can be identified early in the breakdown, preventing the AI from arriving at the wrong final conclusion.
-<br>5. Simplifies Complex Problems
+
+5. Simplifies Complex Problems
+
 <br>When a problem is complex, breaking it down into steps makes it easier to understand and solve.
 <br>Clear instructions force the AI to identify the problem’s components (e.g., inputs, assumptions, calculations) and tackle them one at a time, ensuring that no details are overlooked.
 <br>Example: A complicated legal argument can be made more accessible by instructing the AI to first outline the relevant laws, then analyze the case, and finally apply the law to the facts of the case.
-<br>6. Improves Coherence and Flow
+
+6. Improves Coherence and Flow
+
 <br>Following a structured approach helps the AI maintain coherence and logical flow in its response. Instead of jumping between ideas or presenting fragmented reasoning, step-by-step instructions guide the AI through a smooth, understandable narrative.
 *<br>Example:* Writing a research paper requires a clear flow from introduction to methodology, analysis, and conclusion. Step-by-step instructions help the AI maintain this structure.
-<br>7. Facilitates Better Tailoring to User Needs
+
+7. Facilitates Better Tailoring to User Needs
+
 <br>Clear instructions allow the AI to adjust the reasoning process based on the user's specific needs. For instance, if a user asks for a detailed explanation or a summary, step-by-step instructions help the AI to adapt its response appropriately.
 *<br>Example:* If a user needs a simple summary of a historical event, the AI can break the event into major milestones (e.g., key dates, causes, outcomes), ensuring that the response is both concise and informative.
-<br>8. Promotes Incremental Learning and Feedback
+
+8. Promotes Incremental Learning and Feedback
+
 <br>Providing reasoning in steps creates a natural checkpoint where feedback can be provided. This feedback loop allows users to adjust the process if the AI’s reasoning is going off track or if more information is needed at a specific step.
 *<br>Example:* In a tutorial on coding, if the user wants clarification on the first step (e.g., understanding the problem), they can provide feedback, and the AI can adapt its subsequent steps accordingly.
-<br>9. Ensures Consistency
+
+9. Ensures Consistency
+
 <br>When the AI follows a consistent step-by-step process, it is less likely to deviate from the task at hand or introduce inconsistencies in its reasoning.
 <br>This is especially useful when dealing with tasks that require precision or consistency, such as writing code or legal analysis.
 *<br>Example:* In debugging code, clear steps can help ensure the AI checks each part of the code systematically, ensuring no errors are overlooked.
