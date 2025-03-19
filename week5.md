@@ -175,42 +175,102 @@ The Western Empire was much weaker and more vulnerable to invasions.
 
 **3. Military Problems**
 
-Barbarian Invasions: Various groups of "barbarians," including the Visigoths, Vandals, and Huns, attacked Roman borders. The Western Roman Empire struggled to defend itself from these external threats.
-Mercenary Armies: The Roman military began to rely more on mercenaries—soldiers from other regions who were less loyal to Rome and sometimes even turned against the empire.
-Decline in Military Discipline: The quality of the Roman army deteriorated over time. Many soldiers were not as well-trained or disciplined as in earlier periods.
+Barbarian Invasions: Various groups of "barbarians," including the Visigoths, Vandals, and Huns, attacked Roman borders. 
+
+The Western Roman Empire struggled to defend itself from these external threats.
+
+Mercenary Armies: 
+
+The Roman military began to rely more on mercenaries—soldiers from other regions who were less loyal to Rome and sometimes even turned against the empire.
+
+Decline in Military Discipline: The quality of the Roman army deteriorated over time. 
+
+Many soldiers were not as well-trained or disciplined as in earlier periods.
+
 **4. Social and Cultural Decay**
-Decline in Civic Pride: Romans began to lose a sense of civic duty and pride in their empire. The upper classes became more focused on luxury and personal wealth rather than serving the state.
-Rise of Christianity: As Christianity spread throughout the empire, it weakened traditional Roman religious and cultural practices. Some historians argue that the decline of Roman paganism led to a loss of unity within the empire.
+
+Decline in Civic Pride: 
+
+Romans began to lose a sense of civic duty and pride in their empire. 
+
+The upper classes became more focused on luxury and personal wealth rather than serving the state.
+
+Rise of Christianity: 
+
+As Christianity spread throughout the empire, it weakened traditional Roman religious and cultural practices. 
+
+Some historians argue that the decline of Roman paganism led to a loss of unity within the empire.
+
 **5. Environmental Factors**
-Plague and Famine: The empire faced numerous plagues and famines that decimated its population. The weakening of the population made it harder to defend borders and maintain infrastructure.
-Climate Change: Some historians suggest that climate changes, such as a cooler and drier period, could have impacted agriculture, leading to food shortages and further weakening the empire.
+
+Plague and Famine: 
+The empire faced numerous plagues and famines that decimated its population. 
+
+The weakening of the population made it harder to defend borders and maintain infrastructure.
+
+Climate Change: 
+
+Some historians suggest that climate changes, such as a cooler and drier period, could have impacted agriculture, leading to food shortages and further weakening the empire.
+
 **6. The Final Collapse**
-The Sack of Rome (410 AD): In 410 AD, the Visigoths, led by Alaric, sacked the city of Rome. This event marked a significant blow to the prestige and power of the Western Roman Empire.
-The Fall of the Western Roman Empire (476 AD): In 476 AD, the last Roman emperor, Romulus Augustulus, was overthrown by the Germanic chieftain Odoacer. This event is commonly seen as the formal end of the Western Roman Empire.
+
+The Sack of Rome (410 AD): 
+
+In 410 AD, the Visigoths, led by Alaric, sacked the city of Rome. 
+
+This event marked a significant blow to the prestige and power of the Western Roman Empire.
+
+The Fall of the Western Roman Empire (476 AD): 
+
+In 476 AD, the last Roman emperor, Romulus Augustulus, was overthrown by the Germanic chieftain Odoacer. 
+
+This event is commonly seen as the formal end of the Western Roman Empire.
+
 **7. Legacy**
+
 While the Western Roman Empire fell, the Eastern Roman Empire (Byzantine Empire) continued for another thousand years, until the fall of Constantinople in 1453.
+
 The fall of Rome influenced the development of medieval Europe and the eventual rise of the Holy Roman Empire.
+
 Final Thought:
-The fall of the Roman Empire was not caused by a single event but by a combination of internal weaknesses and external pressures over time. It is often seen as a gradual process rather than a sudden collapse.
+
+The fall of the Roman Empire was not caused by a single event but by a combination of internal weaknesses and external pressures over time. 
+
+It is often seen as a gradual process rather than a sudden collapse.
 
 ## 2️⃣9️⃣​Financial AI Analysis (財務分析AI, 財務分析のAI)
+
 "A restaurant makes $100 per seat. If it has 50 seats and operates 7 days a week, calculate revenue."
+
 **Step 1:** Calculate Daily Revenue
+
 The restaurant makes $100 per seat.
+
 It has 50 seats.
+
 Daily Revenue=100(dollars per seat)×50(seats)=5000dollars per day
 
 **Step 2:** Calculate Weekly Revenue
+
 The restaurant operates 7 days a week.
+
 So, the weekly revenue is:
+
 Weekly Revenue=5000(daily revenue)×7(days)=35,000dollars per week
+
 **Final Answer:**
+
 The restaurant’s weekly revenue is $35,000.
 
 ## 3️⃣0️⃣​Real-Time AI Automation (實時AI應用, AI自動化)
+
 "Automate data extraction and generate a summary for the provided datasheet."
+
 **Data Extraction:**
+
 Identify and extract key fields or columns from the datasheet (e.g., sales data, customer information, or product details).
+
 **Generate Summary:**
+
 Create a concise summary based on the extracted data (e.g., total sales, trends, key metrics).
 
