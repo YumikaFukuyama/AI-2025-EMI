@@ -2,6 +2,7 @@
 ## 2️⃣1️⃣​Prompt Variables (變數化設計, プロンプト変数化)
 "Create a template to generate **product** descriptions using 6 placeholders in English, Chinese, and Japanese."
 - Computer DELL XPS
+
 **English:**
 This Dell XPS features an Intel Core i7 processor, 16GB of RAM, and a 512GB SSD storage drive. It has a 13.4-inch OLED display and comes with Windows 11. Additionally, it is equipped with a backlit keyboard.
 
