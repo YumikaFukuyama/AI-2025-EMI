@@ -46,9 +46,47 @@
 **富士山の水彩画**
 ![image](https://github.com/user-attachments/assets/9bb682d8-f8f5-4d73-bf74-03ecb970500f)
 
-
 ### Lab 6: Expressionist Portrait
-**Prompt Example: ""**
+**Prompt Example: "A painting of a maiko from Kyoto in oil painting reminiscent of a Van Gogh work."**
+**ゴッホの作品のような油絵で、京都の舞妓さんのペイント。**
+![image](https://github.com/user-attachments/assets/d8253cae-9afe-4adf-88d0-9cadd8013855)
+
+## Category 4: Geometry and Abstract Art  X Your 2 Demo
+### Lab 7: Geometric Abstract Design
+**Geometric paint, vivid colors**
+**幾何学的なペイント、色はビビット系**
+![image](https://github.com/user-attachments/assets/195b7e0d-6811-4f9c-be08-3caf0d34fa5e)
+
+## Category 5: Renaissance and Classical Styles  X Your 2 Demo
+### Lab 8: Renaissance Portrait
+**Royalty, girl, beautiful**
+**皇族、女の子、綺麗**
+![image](https://github.com/user-attachments/assets/bbc19e60-b23c-456f-8283-0e0a2bf49ca5)
+
+### Lab 9: Classical Architecture
+**The beautiful casle which related like in France**
+**フランスにあるお城や宮殿のようなイメージ**
+![image](https://github.com/user-attachments/assets/c54b1ed6-05b9-44eb-9e95-e13c9d882ea8)
+
+## Category 6: Surreal and Fantasy Styles  X Your 2 Demo
+### Lab 10: Mythological Scene Creation
+**The image of the myth of the birth of the Earth in Chinese mythology**
+**中国の神話で地球が誕生した神話のイメージ画像**
+![image](https://github.com/user-attachments/assets/b47f3853-5b6e-40e1-96ae-832661722426)
+
+### Lab 11: Surreal Dreamscape
+**The ice castle makes you feel like you're in another world**
+**氷のお城でまるで異世界にいるような感じもイメージ**
+![image](https://github.com/user-attachments/assets/8bc16043-f804-4879-819b-93ad164d9b43)
+
+### Lab 12: Fantasy Creature Design
+**A world where magic is possible, just like in Chinese historical dramas**
+**中国の時代劇ドラマのように魔法が使える世界観**
+![image](https://github.com/user-attachments/assets/7ecc57b0-ada4-4c4f-a8da-7bca9049f444)
+
+
+
+
 
 
 
