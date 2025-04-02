@@ -63,15 +63,48 @@ Design 2 you own image prompts and generate 2 images
 
 - Lab 26: Precision Prompting & Image Recreation
 Assignment: Observe a sample AI image, draft a detailed prompt, refine it through at least three iterations, and analyze differences.
-The package of healthy acai chocolate is titled acai chocolate. The package is black and purple, which is cool, and includes a photo of the actual chocolate, especially the one that young girls will like.
-![image](https://github.com/user-attachments/assets/a8b3f7fc-4ac9-445a-b68c-b332fb0bc16c)
-![image](https://github.com/user-attachments/assets/d7e13e75-0e0f-4829-8efd-0869269b8e2a)
+Cream-colored packaging, high-organic food, the outermost package is green with a leaf in the middle.
+![image](https://github.com/user-attachments/assets/27eb7b89-400d-4e99-bbe1-c3bad5b3a789)
+"The packaging is like a square block, and the wrapping paper that covers the contents is cream-colored with a green sticker on top, with a picture of a leaf in the middle and the words ``high organic food'' written above it."
+![image](https://github.com/user-attachments/assets/64802e44-9b66-4d8a-a2d7-7ac466ef8973)
+![image](https://github.com/user-attachments/assets/1b09cba5-1c9f-45c6-a48d-fe9480403c0f)
+![image](https://github.com/user-attachments/assets/0dafcab6-8895-488f-ad19-030a2723a8b5)
+
 
 ### Final Lab Questions:
-1. How do specific prompt keywords affect the image output?
-2. What image details are hardest to replicate? Why?
-3. How can prompts be refined to get closer to a target visual? Provide a revised prompt and explain your reasoning.
+**1. How do specific prompt keywords affect the image output?**
+- Descriptive Adjectives:
+Words like "vivid," "realistic," "surreal," "detailed," or "minimalist" set the tone or style of the image.
+- Art Styles:
+Keywords related to art movements or styles, such as "Impressionist," "Cubist," "Abstract," or "Digital art," direct the model to produce the image in a particular visual style.
+- Color Descriptions:
+Adding color-specific keywords, such as "monochrome," "neon," or "pastel," can strongly influence the mood and feel of the image.
+- Environment and Setting:
+Keywords that specify a setting, like "forest," "space," "urban," or "underwater," help the model understand the location of the scene.
+- Subject or Object:
+Specific objects or characters can be included in the prompt to guide what appears in the image.
+- Lighting and Time of Day:
+Words such as "sunset," "moonlit," or "brightly lit" change the atmosphere of the image based on how lighting is represented.
+- Emotion and Atmosphere:
+Words like "gloomy," "peaceful," "dramatic," or "joyful" alter the emotional tone of the image.
+- Perspective and Composition:
+Keywords like "bird's-eye view," "close-up," "wide-angle," or "portrait orientation" adjust how the scene is framed.
+- Specific Medium or Material:
+Keywords referring to the material used to create the image, such as "watercolor," "oil painting," or "photograph," affect the texture and feel.
 
+**2. What image details are hardest to replicate? Why?**
+- Human Faces and Expressions
+- Complex Textures
+- Intricate Patterns
+- Lighting and Shadows in Complex Scenes
+- Depth of Field and Bokeh Effects
+- Fluid Motion and Realistic Body Movement
+- Reflective Surfaces and Transparency
+-  Highly Detailed Backgrounds or Crowded Scenes
+- Rare or Unique Visuals (e.g., Uncommon Animals, Imaginary Creatures)
+- Abstract Concepts or Emotions
+
+**3. How can prompts be refined to get closer to a target visual? Provide a revised prompt and explain your reasoning.**
 
 
 
