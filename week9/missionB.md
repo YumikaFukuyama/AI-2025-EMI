@@ -239,3 +239,6 @@ The VR technology also allows for real-time feedback, enabling therapists to mon
 
 - Data Analytics Tools: To track and analyze the patient’s emotional and behavioral responses to VR therapy over time. This could include tracking stress levels, anxiety, or specific behavioral cues that indicate progress.
 
+![image](https://github.com/user-attachments/assets/834b3542-9c9e-4846-afe5-46a235869df3)
+
+![image](https://github.com/user-attachments/assets/cf63f7f7-6b9e-4bb6-9f6e-09998a0ba11a)
