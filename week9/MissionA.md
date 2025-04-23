@@ -11,17 +11,17 @@ The main restoration network, DAIR-DCNN, uses Semi-Dynamic Layers (SDLs) to adap
 Experiments show DUIR outperforms existing methods on both synthetic and real-world data, offering an efficient and versatile solution for image restoration tasks.
 
 ### Reference Questions for Learning
-- In two sentences, what is DronePaint?
+- **In two sentences, what is DronePaint?**
 
 DronePaint is an interactive system that enables users to control a swarm of drones using hand gestures, recognized by a deep neural network.
 The drones are equipped with lights and coordinate in real time to create dynamic light paintings in the sky.
 
-- How do hand gestures move the drones?
+- **How do hand gestures move the drones?**
 
 Hand gestures are captured by a camera and interpreted by a deep neural network trained to recognize specific movements.
 These recognized gestures are then translated into flight commands, allowing users to intuitively control the position, formation, and motion of the drone swarm in real time.
 
-- What is the system archtecture?
+- **What is the system archtecture?**
 
 1. Gesture Recognition Module: Uses a deep neural network to detect and classify hand gestures from a video stream in real time.
    
@@ -31,12 +31,12 @@ These recognized gestures are then translated into flight commands, allowing use
 
 Together, these modules enable seamless human-swarm interaction for creative light-based performances.
   
-- Why do we smooth my hand’s path before flying?
+- **Why do we smooth my hand’s path before flying?**
 
 Smoothing your hand’s path before flying helps to eliminate small, unintended jitters or fluctuations in your gesture.
 This ensures the drones follow a stable and fluid trajectory, resulting in more accurate and visually appealing light paintings.
   
-- Three simple metaphors for LightPaint?
+- **Three simple metaphors for LightPaint?**
 
 1. Airborne Paintbrush: Like painting on a canvas, but your hand guides glowing drones that draw in the sky.
 
