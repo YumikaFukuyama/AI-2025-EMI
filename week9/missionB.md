@@ -1,4 +1,4 @@
-# MISSION 2
+# MISSION B
 ### **Q1. When we wave to control drones in DronePaint, what kind of information is the system "seeing" and transforming into motion? Describe the mechanism of gesture recognition in your own words.**
 ![image](https://github.com/user-attachments/assets/197ce3cf-9133-4f58-b0b1-e377f028d8dc)
 
@@ -213,8 +213,9 @@ Event organizers, entertainment companies, advertising agencies, and brands look
 - Grace periods: In critical situations, allow for a grace period where the system holds off on performing an action until it receives a second, clearer gesture.
 - Logging and Monitoring: Continuously monitor system performance and log any misinterpretations. Regular audits and updates can improve the reliability of the system.
 
-#MISSION 3
-
+# MISSION C
+Case study : **Virtual Reality Assisted Therapy**
+Ideal : AI can be used to enhance virtual reality (VR) experiences for therapeutic purposes. By combining AI with VR, the system could create customized, immersive environments for people to address trauma, anxiety, phobias, or stress. For example, an AI-driven VR system could help individuals with social anxiety practice speaking in public or dealing with difficult social situations. By analyzing the user's emotional responses and adapting the scenario in real-time, it could provide a safe and controlled environment for growth.
 
 
 
